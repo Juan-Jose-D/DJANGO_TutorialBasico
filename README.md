@@ -19,7 +19,9 @@ Para comenzar, verificaremos si tenemos Python instalado en nuestro sistema.
 - Si obtenemos un error, significa que no está instalado
 
 
-**Nota importante:** Django requiere **Python 3.8 o superior**. Para usuarios de Linux/macOS donde el comando anterior no funcione, probamos con:
+**Nota importante:** Django requiere **Python 3.8 o superior**. 
+
+Para usuarios de Linux/macOS donde el comando anterior no funcione, probamos con:
 
 ` python3 --version `
 
@@ -146,6 +148,8 @@ Para crear el inicio del scaffolding de nuestro proyecto Django usaremos el sigu
 `django-admin startproject config .`
 
 Esto creará una un archivo **manage.py** y una carpeta config con unos archivos de configuración de Django que explicaremos resumidamente ahora.
+
+![image](https://github.com/user-attachments/assets/db361851-d7cc-49d9-9f5d-9a2be1a4c148)
 
 <hr>
 
